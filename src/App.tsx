@@ -1,11 +1,14 @@
+import { FunctionComponent } from 'react';
 import { AutosuggestionSelect } from './components/AutosuggestionSelect';
 
 import './App.css';
 
-export default function App() {
+const App: FunctionComponent = () => {
   return (
     <main>
       <AutosuggestionSelect />
     </main>
   );
 }
+
+export default App;

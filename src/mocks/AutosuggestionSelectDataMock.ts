@@ -1,0 +1,1 @@
+export const autosuggestionSelectDataMock = ["Baby Wizard", "Scroopy Noopers", "Running Bird", "Gotron"];

@@ -6,7 +6,6 @@
   padding: 2rem;
 }
 
-
 .trigger {
   display: flex;
   position: relative;
@@ -32,6 +31,10 @@
 
 .arrow {
   margin-left: 0.6rem;
+}
+
+.arrow-up {
+  transform: rotate(180deg);
 }
 
 .searcher {
